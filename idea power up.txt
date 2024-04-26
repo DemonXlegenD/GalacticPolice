@@ -1,0 +1,18 @@
+power up positifs
+
+    + atk
+    + hp / defense
+    heal
+    changements d'attaque/projectile
+    boost score
+
+power up negatifs
+
+    downgrade projectile
+    - atk (avec une limite : base stat)
+
+
+
+easy : aucun negatifs
+normal : rare
+hard/nightmare : fréquents
